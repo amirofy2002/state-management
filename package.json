@@ -1,6 +1,6 @@
 {
   "name": "state-management",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a rich toolset for handling transition between states using state management pattern",
   "main": "dist/index",
   "types": "dist/index",
